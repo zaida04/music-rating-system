@@ -1,0 +1,34 @@
+{
+  "songs": [
+      {
+        "title": "Death Bed",
+        "artist": "Powfu",
+        "album": "album-1"
+      },
+      {
+        "title": "Bad Liar",
+        "artist": "Imagine Dragons",
+        "album": "album-2"
+      },
+      {
+        "title": "Faded",
+        "artist": "Alan Walker",
+        "album": "album-3"
+      },
+      {
+        "title": "Hate Me",
+        "artist": "Ellie Goulding",
+        "album": "album-4"
+      },
+      {
+        "title": "Solo",
+        "artist": "Clean Bandit",
+        "album": "album-5"
+      },
+    {
+      "title": "Without Me",
+      "artist": "Halsey",
+      "album": "album-6"
+    }
+  ]
+}
